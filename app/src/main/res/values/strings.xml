@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculo Notas</string>
+    <string name="resultado">Resultado:%.2f</string>
+    <string name="resultado2">"Resultado: "</string>
+    <string name="informe_a_quantidade_de_notas_0_10">Informe a quantidade de notas (Max: 10)</string>
+    <string name="declarar_notas">Declarar notas</string>
+    <string name="resultado1">Resultado:</string>
+    <string name="calcular_notas">Calcular Notas</string>
+    <string name="botao_de_resetar_notas">botao de resetar notas</string>
+    <string name="calcular">Calcular</string>
+</resources>
